@@ -1,0 +1,11 @@
+users=[
+  {
+    name:"Aminur",
+    age:"32"
+  },
+  {
+    name:"Bikash",
+    age:"44"
+  },
+  ]
+  module.exports=users;
